@@ -2,7 +2,7 @@
 Algoritmos y Complejidad
 
 # Descripción
-Repositorio utilizado para alojar los ejercicios desarrollados durante el curso "Algoritmos y Complejidad"
+Repositorio utilizado para alojar los ejercicios desarrollados durante el curso "Algoritmos y Complejidad" el segundo semestre del año 2021 en la Universidad Técnica Federico Santa María, para la carrera de Ingeniería Civil en Informática.
 
 # Creadores
 Daniel Alvayay Figueroa 201973524-1
