@@ -2,8 +2,9 @@
 T1
 
 # Descripción
-- Ejercicio 1: Programa en Python que replica el comportamiento de un Join SQL
-- Ejercicio 2: Programa en Python que, usando el programa anterior, retorna la cantidad de triángulos formados en un grafo dirigido
+Ejercicio 1: Programa en Python que replica el comportamiento de un Join SQL
+
+Ejercicio 2: Programa en Python que, usando el programa anterior, retorna la cantidad de triángulos formados en un grafo dirigido
 
 # Herramientas utilizadas
 Se ha comprobado el correcto funcionamiento del proyecto con las siguientes versiones:
